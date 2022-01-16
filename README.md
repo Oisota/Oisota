@@ -1,7 +1,7 @@
 # About
 I am a software developer from Ohio currently working at Avantia Inc. developing web applications.
 I received my bachelor's degree in computer science from Cleveland State University in 2016.
-Some of my other interests include music, guitar, sailing, gaming, and electronics.
+Some of my other interests include guitar, woodworking, gaming, and electronics.
 
 # Skills
 ## Languages

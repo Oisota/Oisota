@@ -1,5 +1,5 @@
 # About
-I develop softare focusing mainly on web applications and APIs.
+I am a software developer focusing mainly on web applications and APIs.
 I enjoy making things and take pride in my work.
 I received my bachelor's degree in computer science from Cleveland State University in 2016.
 Some of my other interests include guitar, woodworking, gaming, and electronics.

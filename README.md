@@ -9,7 +9,7 @@ Some of my other interests include guitar, woodworking, gaming, and electronics.
 Python, JavaScript/Node.js, TypeScript, SQL, Shell Scripting/Bash, HTML, CSS, SASS/SCSS, C, LaTex
  
 ## Libraries/Frameworks
-Django, Flask, SQLAlchemy, Tornado, gunicorn, Vue.js, Chart.js, Lodash, Bootstrap, Bulma, jQuery, Metalsmith
+Django, Flask, SQLAlchemy, gunicorn, Vue.js, Chart.js, Tailwind, Bootstrap, Bulma, jQuery, Metalsmith
  
  ## Tools
- MySQL, SQLite, Redis, Nginx, webpack, Linux, git, vim, tmux, VSCode 
+ Docker, Postgres, MySQL, SQLite, Redis, Nginx, Linux, git, vim, tmux, VSCode 
